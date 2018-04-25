@@ -4,15 +4,20 @@ Hello! This project allows you to quickly get started with Reason and BuckleScri
 
 # Build
 ```
-npm run build
+yarn build
 ```
 
 # Build + Watch
 
 ```
-npm run start
+yarn start
 ```
 
+# Test
+
+```
+yarn test
+```
 
 # Editor
 If you use `vscode`, Press `Windows + Shift + B` it will build automatically
